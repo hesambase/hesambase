@@ -19,8 +19,8 @@ I thrive on solving complex problems and building scalable architectures.
 *   **Frontend:** Angular, Blazor (my favorite framework), HTML5, CSS3, Bootstrap, JavaScript
 *   **Systems & Tools:** Azure, MongoDB, RabbitMQ, Redis
 *   **Methodologies:** Agile/Scrum, Software Design Patterns & Architecture
-*   **Analyzing and Documentation:** UML, BPMN
-      --
+*   **Documentation:** UML, BPMN & Wireframing 
+
 
 ### 💼 Professional Experience
 *   **System Analyst and Developer** | Freelancer (2024-present)
