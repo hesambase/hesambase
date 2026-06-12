@@ -19,10 +19,11 @@ I thrive on solving complex problems and building scalable architectures.
 *   **Frontend:** Angular, Blazor (my favorite framework), HTML5, CSS3, Bootstrap, JavaScript
 *   **Systems & Tools:** Azure, MongoDB, RabbitMQ, Redis
 *   **Methodologies:** Agile/Scrum, Software Design Patterns & Architecture
-
----
+*   **Analyzing and Documentation:** UML, BPMN
+      --
 
 ### 💼 Professional Experience
+*   **System Analyst and Developer** | Freelancer (2024-present)
 *   **Full-Stack Developer** | PouraTeb Pharmaceutical Co. (2023–2024)
 *   **.NET Developer** | AASSTTIINN.com (2021–2023)
 *   **.NET Developer** | Electricity Distribution Software Services (2021)
@@ -40,6 +41,6 @@ I thrive on solving complex problems and building scalable architectures.
 
 ### 🌐 Connect with me
 
-*   **Email:** [hesama.attarii@gmail.com](mailto:hesama.attarii@gmail.com)
+*   **Email:** [hesam.attarii@gmail.com](mailto:hesama.attarii@gmail.com)
 
 *“Solving problems with software is what I do best.”*
