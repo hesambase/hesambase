@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Hello, I’m Hesam Attari
 
 I build thoughtful digital experiences and work on projects that combine design, technology, and usability.
